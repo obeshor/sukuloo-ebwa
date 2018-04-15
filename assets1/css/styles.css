@@ -1,0 +1,22 @@
+#entete1 {
+  position:fixed;
+  top:0px;
+  height:30px;
+  width:100%;
+  background-color:black;
+}
+
+#entete2{
+
+  height:500px;
+
+}
+
+#entete3 {
+  position:fixed;
+  height:30px;
+  width:100%;
+  background-color:black;
+  bottom:0px;
+}
+
